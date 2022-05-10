@@ -14,7 +14,7 @@ This paper aims to diversify the existing critical discourse by introducing new 
 
 ### Publication
 
-_Proceedings of xCoAx 2022, 10<sup>th</sup> Conference on Computation, Communication, Aesthetics & X_. Coimbra, 6-8 Jul.
+_Proceedings of xCoAx 2022, 10<sup>th</sup> Conference on Computation, Communication, Aesthetics & X_. Coimbra, 6-8 July.
 
 ### References
 
