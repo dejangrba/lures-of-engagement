@@ -2,8 +2,6 @@
 
 ## An Outlook on Tactical AI Art
 
-#### [GitHub Page](https://dejangrba.github.io/lures-of-engagement/)
-
 ### Abstract
 
 This paper aims to diversify the existing critical discourse by introducing new perspectives on the poetic, expressive, and ethical features of tactical media art that involves artificial intelligence (AI). It explores diverse artistic approaches and their effectiveness in critiquing the epistemic, phenomenological, and political aspects of AI science and technology. Focusing on the three representative thematic areas—sociocultural, existential, and political—the discussion focuses on the works that exemplify poetic complexity and manifest the ambiguities indicative of a broader milieu of contemporary art, culture, economy, and society. With a closing summary of the major issues and possible directions to address them, the paper shows that tactical AI art provides important insights into the AI-influenced world and has the potential to advance computational arts toward a socially responsible and epistemologically relevant expressive stratum.
